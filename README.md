@@ -88,6 +88,7 @@ python port_scanner.py
 - Protocol-aware banner grabbing
 - Service fingerprinting
 - Better reporting
+- Multithreaded scanning (v2.0)
 
 ---
 
